@@ -1,0 +1,21 @@
+{
+  "name": "gmail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "email-templates": "^5.0.2",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nodemailer": "^4.6.8",
+    "nodemailer-sendmail-transport": "^1.0.2",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "q": "^1.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
